@@ -12,7 +12,7 @@
 	$developer->workingAt = ['epics.com.br', 'ulisite.com'];
 	$developer->plans = 'Trabalhar com tecnologia pelo resto da vida';
 	
-	$developer->follow();
+	follow($developer);
 ?>
 
 ```
