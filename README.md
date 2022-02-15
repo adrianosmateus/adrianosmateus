@@ -1,26 +1,18 @@
-### Coé rapazeada 🤙🤙🤙
+```php
+<?php
+	$developer = new Developer();
+	$developer->name = 'Adriano M. Santos';
+	$developer->created_at = '1995-02-28';
+	$developer->city = 'São José do Rio Preto';
+	$developer->state = 'SP';
+	$developer->country = 'Brasil';
+	$developer->languages = ['php', 'javascript', 'SQL'];
+	$developer->technologies = ['Amazon Web Services', 'MySQL', 'Docker', 'Laravel framework', 'Nginx', 'Linux'];
+	$developer->interests = ['Database', 'DevOPS', 'IA', 'ML', 'Data analysis', 'Big Data'];
+	$developer->workingAt = ['epics.com.br', 'ulisite.com'];
+	$developer->plans = 'Trabalhar com tecnologia pelo resto da vida';
+	
+	$developer->follow();
+?>
 
-- ☁️ Desenvolvedor back-end, atualmente trabalhando com Php, MySQL e Nginx com Amazon Web Services.
-- 🧠 Tenho o desejo de me especializar em administração de banco de dados e também tenho curiosidades relacionadas a IA e ML.
-
-<!--
-<div align="center">
-  <a href="https://github.com/adrianosmateus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianosmateus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianosmateus&layout=compact&langs_count=7&theme=dracula"/>
-</div>-->
-
-<!--
-**adrianosmateus/adrianosmateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
