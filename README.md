@@ -2,6 +2,7 @@
 <?php
 	$developer = new Developer();
 	$developer->name = 'Adriano M. Santos';
+	$developer->contactEmail = 'adrianosmateus@gmail.com';
 	$developer->created_at = '1995-02-28';
 	$developer->city = 'São José do Rio Preto';
 	$developer->state = 'SP';
