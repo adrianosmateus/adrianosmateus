@@ -2,7 +2,7 @@
 ## 💾 My data
 - 📧: adrianosmateus@gmail.com
 - 🐛: https://pt.stackoverflow.com/users/48378/adrianosmateus
-- 🌎: (Comming soon) https://adrianosmateus.dev
+- 🌎: (Coming soon) https://adrianosmateus.dev
 
 ## 🎓 My formation
 - Informatic technician, 2012
