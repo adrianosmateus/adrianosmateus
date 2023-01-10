@@ -2,6 +2,8 @@
 ## 💾 My data
 - 📧: adrianosmateus@gmail.com
 - 🐛: https://pt.stackoverflow.com/users/48378/adrianosmateus
+- 📷: https://www.instagram.com/dnovoadriano
+- 💼: https://www.linkedin.com/in/adrianosmateus
 - 🌎: (Coming soon) https://adrianosmateus.dev
 
 ## 🎓 My formation
@@ -13,7 +15,7 @@
 - Database: SQL, Redis
 - DevOps: Nginx, Linux, AWS(Amazon Web Services)
 
-## 🤔 Interests
+## 🤔 My interests
 - Technology
 - Gaming
 - History
