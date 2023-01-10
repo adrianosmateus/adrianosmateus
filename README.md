@@ -11,7 +11,7 @@
 	$developer->technologies = ['Amazon Web Services', 'MySQL', 'Docker', 'Laravel framework', 'Nginx', 'Linux'];
 	$developer->interests = ['Database', 'DevOPS', 'IA', 'ML', 'Data analysis', 'Big Data'];
 	$developer->workingAt = ['epics.com.br', 'ulisite.com'];
-	$developer->plans = 'Trabalhar com tecnologia pelo resto da vida';
+	$developer->plans = 'Work with I.T for the rest of my life';
 	
 	follow($developer);
 ?>
