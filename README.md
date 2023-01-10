@@ -14,6 +14,7 @@
 - Backend: PHP, Node.js, Rust
 - Database: SQL, Redis
 - DevOps: Nginx, Linux, AWS(Amazon Web Services)
+- FrontEnd: HTML, JavaScript, CSS
 
 ## 🤔 My interests
 - Technology
