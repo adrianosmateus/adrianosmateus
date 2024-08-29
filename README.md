@@ -2,7 +2,6 @@
 <h3 align="center">A brazilian developer who codes for food</h3>
 
 <ul>
-    <li>Open to work</li>
     <li>Ask me about <strong>SQL, Back-end development, PHP, Laravel, Python, Node.js, AWS and Docker</strong></li>
     <li>Talk to me at <a href="https://linkedin.com/in/adrianosmateus" target="blank">LinkedIn</a></li>
 </ul>
